@@ -1508,6 +1508,18 @@ TEI teiHeader fileDesc titleStmt title[type=main]::before {
 TEI teiHeader fileDesc titleStmt title[type=sub]::before {
 	content:"Untertitel";
 }
+TEI teiHeader fileDesc titleStmt title[xml|lang=deu]::before {
+	content:"Deutscher Titel";
+}
+TEI teiHeader fileDesc titleStmt title[xml|lang=hsb]::before {
+	content:"Obersorbischer Titel";
+}
+TEI teiHeader fileDesc titleStmt title[xml|lang=dsb]::before {
+	content:"Niedersorbischer Titel";
+}
+TEI teiHeader fileDesc titleStmt title[xml|lang=eng]::before {
+	content:"Englischer Titel";
+}
 TEI teiHeader fileDesc titleStmt author::before {
 	content:"Autor*in";
 }
