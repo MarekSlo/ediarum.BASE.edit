@@ -19101,6 +19101,11 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 																<menuEntry-array>
 																	<menuItem>
 																		<field name="actionID">
+																			<String>SI_fileDesc/titleStmt/title@xml:lang</String>
+																		</field>
+																	</menuItem>
+																	<menuItem>
+																		<field name="actionID">
 																			<String>SI_fileDesc/titleStmt/title[@type='main']</String>
 																		</field>
 																	</menuItem>
