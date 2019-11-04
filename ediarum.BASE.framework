@@ -18451,7 +18451,7 @@ SI_profileDesc/langUsage/language</String>
 									</action>
 									<action>
 										<field name="id">
-											<String>ESF_rs[type='term']</String>
+											<String>SI_rs[type='term']</String>
 										</field>
 										<field name="name">
 											<String>Schlagwort im Text</String>
@@ -21145,28 +21145,33 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>orgName</String>
-																</field>
-															</toolbarItem>
-															<toolbarItem>
-																<field name="actionID">
 																	<String>placeName</String>
 																</field>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>bibl</String>
+																	<String>orgName</String>
 																</field>
 															</toolbarItem>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>rs[term]</String>
+																	<String>SI_rs[type='term']</String>
 																</field>
 															</toolbarItem>
 															<toolbarSeparator/>
 															<toolbarItem>
 																<field name="actionID">
-																	<String>rs</String>
+																	<String>SI_rs_person</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>SI_rs_place</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>SI_rs_org</String>
 																</field>
 															</toolbarItem>
 														</toolbarEntry-array>
