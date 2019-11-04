@@ -3952,7 +3952,7 @@ self::*:table][1][self::*:row][namespace-uri()='http://www.tei-c.org/ns/1.0']</S
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -13028,7 +13028,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											<actionMode-array>
 												<actionMode>
 													<field name="xpathCondition">
-														<String>//teiHeader/profileDesc/textClass/keywords</String>
+														<String>//teiHeader/profileDesc/textClass/keywords[not(list)]</String>
 													</field>
 													<field name="argValues">
 														<serializableOrderedMap>
@@ -13042,7 +13042,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 															</entry>
 															<entry>
 																<String>insertLocation</String>
-																<String>//teiHeader/profileDesc/textClass/keywords</String>
+																<String>//teiHeader/profileDesc/textClass/keywords[not(list)]</String>
 															</entry>
 															<entry>
 																<String>insertPosition</String>
@@ -13062,7 +13062,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 															</entry>
 															<entry>
 																<String>multiple selection</String>
-																<String>false</String>
+																<String>true</String>
 															</entry>
 															<entry>
 																<String>namespaces</String>
@@ -13071,6 +13071,10 @@ or ancestor-or-self::list[@rendition='#et']</String>
 															<entry>
 																<String>node</String>
 																<String>//li</String>
+															</entry>
+															<entry>
+																<String>schemaAware</String>
+																<String>true</String>
 															</entry>
 														</serializableOrderedMap>
 													</field>
@@ -13307,7 +13311,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -13590,7 +13594,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -13688,7 +13692,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -13836,7 +13840,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -13959,7 +13963,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14127,7 +14131,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14273,7 +14277,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14419,7 +14423,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14671,7 +14675,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14805,7 +14809,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -14939,7 +14943,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -15073,7 +15077,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -15369,7 +15373,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -15559,7 +15563,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -15751,7 +15755,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -15979,7 +15983,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -16207,7 +16211,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -16430,7 +16434,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -16569,7 +16573,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -17203,7 +17207,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -17341,7 +17345,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -17479,7 +17483,7 @@ or ancestor-or-self::list[@rendition='#et']</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -18014,7 +18018,7 @@ not(//teiHeader/profileDesc/abstract[@xml:lang ='dsb']) and
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -18117,7 +18121,7 @@ SI_profileDesc/langUsage/language</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -18254,7 +18258,7 @@ SI_profileDesc/langUsage/language</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -18336,7 +18340,7 @@ SI_profileDesc/langUsage/language</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -18934,7 +18938,7 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 									<action>
@@ -19057,7 +19061,7 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 											</actionMode-array>
 										</field>
 										<field name="enabledInReadOnlyContext">
-											<Boolean>false</Boolean>
+											<Boolean>true</Boolean>
 										</field>
 									</action>
 								</action-array>
