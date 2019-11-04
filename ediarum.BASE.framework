@@ -20706,6 +20706,469 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 								<toolbar-array>
 									<toolbar>
 										<field name="id">
+											<String>Text</String>
+										</field>
+										<field name="type">
+											<Integer>2</Integer>
+										</field>
+										<field name="largeIconPath">
+											<null/>
+										</field>
+										<field name="smallIconPath">
+											<null/>
+										</field>
+										<field name="toolbarEntriesDescriptorList">
+											<toolbarEntry-array>
+												<toolbarItem>
+													<field name="actionID">
+														<String>paragraph</String>
+													</field>
+												</toolbarItem>
+												<toolbar>
+													<field name="id">
+														<String>Zeilenumbruch</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/lb.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>${framework}/icons/lb16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>lb</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>lb[break]</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>lb[break-hyphen]</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbar>
+													<field name="id">
+														<String>Listen</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/ordered_list.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String></String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>itemizedlist</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>item</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbar>
+													<field name="id">
+														<String>Tabelle</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>/images/Table20.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>/images/Table16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>insert.table</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>insert.table.row</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>insert.table.column</String>
+																</field>
+															</toolbarItem>
+															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>table.join.row.cells</String>
+																</field>
+															</toolbarItem>
+															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>delete.table.column</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>delete.table.row</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbarItem>
+													<field name="actionID">
+														<String>note</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>figure</String>
+													</field>
+												</toolbarItem>
+												<toolbar>
+													<field name="id">
+														<String>Folio- und Seitenwechsel</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/pagebreak.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>${framework}/icons/pagebreak16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>pb</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>pb[facs]</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>fw</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbarSeparator/>
+												<toolbarItem>
+													<field name="actionID">
+														<String>hi[underline]</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>hi[superscript]</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>del</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>subst</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>add</String>
+													</field>
+												</toolbarItem>
+												<toolbarSeparator/>
+												<toolbarItem>
+													<field name="actionID">
+														<String>unclear</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>gap</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>del_gap</String>
+													</field>
+												</toolbarItem>
+												<toolbarSeparator/>
+												<toolbarItem>
+													<field name="actionID">
+														<String>ex</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>supplied</String>
+													</field>
+												</toolbarItem>
+												<toolbarItem>
+													<field name="actionID">
+														<String>sic-corr[deleted]</String>
+													</field>
+												</toolbarItem>
+												<toolbar>
+													<field name="id">
+														<String>Korrekturen</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/corr-sic.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>${framework}/icons/corr-sic16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>sic-corr</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>orig-reg</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbarSeparator/>
+												<toolbarItem>
+													<field name="actionID">
+														<String>seg</String>
+													</field>
+												</toolbarItem>
+												<toolbar>
+													<field name="id">
+														<String>Verweise</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/verweis.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String></String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>anchor</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>ref</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>ref[note]</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>ref[URL]</String>
+																</field>
+															</toolbarItem>
+															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>ref[hasAttachement]</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>ref[attachedTo]</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbar>
+													<field name="id">
+														<String>Datum</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/date.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String></String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>date-when</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>date-fromto</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>date-notBeforeAfter</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbar>
+													<field name="id">
+														<String>Sprache und Schriftart</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/foreign.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>${framework}/icons/foreign16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>hi[#aq_#fr]</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>foreign</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbarSeparator/>
+												<toolbar>
+													<field name="id">
+														<String>Textstellen indizieren</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/index.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String>${framework}/icons/index16.gif</String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>index_personen</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>index_places</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>index_bibl</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbar>
+													<field name="id">
+														<String>Namen kennzeichnen</String>
+													</field>
+													<field name="type">
+														<Integer>3</Integer>
+													</field>
+													<field name="largeIconPath">
+														<String>${framework}/icons/names.gif</String>
+													</field>
+													<field name="smallIconPath">
+														<String></String>
+													</field>
+													<field name="toolbarEntriesDescriptorList">
+														<toolbarEntry-array>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>persName</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>orgName</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>placeName</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>bibl</String>
+																</field>
+															</toolbarItem>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>rs[term]</String>
+																</field>
+															</toolbarItem>
+															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>rs</String>
+																</field>
+															</toolbarItem>
+														</toolbarEntry-array>
+													</field>
+												</toolbar>
+												<toolbarSeparator/>
+											</toolbarEntry-array>
+										</field>
+									</toolbar>
+									<toolbar>
+										<field name="id">
 											<String>Metadaten</String>
 										</field>
 										<field name="type">
