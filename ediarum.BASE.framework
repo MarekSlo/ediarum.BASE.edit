@@ -19064,6 +19064,84 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 											<Boolean>true</Boolean>
 										</field>
 									</action>
+									<action>
+										<field name="id">
+											<String>SI_table[@rend='hidden']</String>
+										</field>
+										<field name="name">
+											<String>Tabelle ausblenden</String>
+										</field>
+										<field name="description">
+											<String>Eine Tabelle als später nicht sichtbar deklarieren</String>
+										</field>
+										<field name="largeIconPath">
+											<String>${framework}/icons/invisitable.png</String>
+										</field>
+										<field name="smallIconPath">
+											<String>${framework}/icons/invisitable.png</String>
+										</field>
+										<field name="accessKey">
+											<String></String>
+										</field>
+										<field name="accelerator">
+											<null/>
+										</field>
+										<field name="actionModes">
+											<actionMode-array>
+												<actionMode>
+													<field name="xpathCondition">
+														<String>ancestor-or-self::table[1][@rend="hidden"]</String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>elementLocation</String>
+																<String>ancestor-or-self::table[1]</String>
+															</entry>
+															<entry>
+																<String>name</String>
+																<String>rend</String>
+															</entry>
+															<entry>
+																<String>value</String>
+																<String></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.ChangeAttributeOperation</String>
+													</field>
+												</actionMode>
+												<actionMode>
+													<field name="xpathCondition">
+														<String>ancestor-or-self::table[1]</String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>elementLocation</String>
+																<String>ancestor-or-self::table[1]</String>
+															</entry>
+															<entry>
+																<String>name</String>
+																<String>rend</String>
+															</entry>
+															<entry>
+																<String>value</String>
+																<String>hidden</String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.ChangeAttributeOperation</String>
+													</field>
+												</actionMode>
+											</actionMode-array>
+										</field>
+										<field name="enabledInReadOnlyContext">
+											<Boolean>true</Boolean>
+										</field>
+									</action>
 								</action-array>
 							</field>
 							<field name="menubarDescriptor">
@@ -19725,6 +19803,12 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 																	<menuItem>
 																		<field name="actionID">
 																			<String>table.split.right</String>
+																		</field>
+																	</menuItem>
+																	<menuSeparator/>
+																	<menuItem>
+																		<field name="actionID">
+																			<String>SI_table[@rend='hidden']</String>
 																		</field>
 																	</menuItem>
 																</menuEntry-array>
@@ -20446,6 +20530,11 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 									</field>
 									<field name="toolbarEntriesDescriptorList">
 										<toolbarEntry-array>
+											<toolbarItem>
+												<field name="actionID">
+													<String>SI_table[@rend='hidden']</String>
+												</field>
+											</toolbarItem>
 											<toolbar>
 												<field name="id">
 													<String>Titelangaben</String>
@@ -20839,6 +20928,12 @@ not(ancestor-or-self::div[@type='writingSession']/closer)</String>
 															<toolbarItem>
 																<field name="actionID">
 																	<String>delete.table.row</String>
+																</field>
+															</toolbarItem>
+															<toolbarSeparator/>
+															<toolbarItem>
+																<field name="actionID">
+																	<String>SI_table[@rend='hidden']</String>
 																</field>
 															</toolbarItem>
 														</toolbarEntry-array>

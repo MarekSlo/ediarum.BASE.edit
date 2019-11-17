@@ -713,6 +713,19 @@ signed {
 
 /* Tables  */
 
+
+table[rend="hidden"] cell {
+	/*position:relative;*/
+}
+table[rend="hidden"] cell::before {
+	position:absolute;
+	display:block;
+	content:"";
+	height:100%;
+	width:100%;
+	background-color:rgba(255,255,255,0.75);
+}
+
 text table {
   display: table;
   margin: 1em 0 1em 0;
