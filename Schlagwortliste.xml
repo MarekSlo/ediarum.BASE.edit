@@ -4542,6 +4542,12 @@
 		<span xml:lang="hsb">křižowa chódba</span>
 		<span xml:lang="en">Cloister</span>
 	</li>
+	<li id="Kreuzstein" ref="-">
+		<span xml:lang="de">Kreuzstein</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Kreuzung" ref="http://d-nb.info/gnd/4132427-4">
 		<span xml:lang="de">Kreuzung</span>
 		<span xml:lang="dsb">kśicnišćo</span>
@@ -6971,6 +6977,12 @@
 		<span xml:lang="dsb">sćina</span>
 		<span xml:lang="hsb">sćina</span>
 		<span xml:lang="en">Reed</span>
+	</li>
+	<li id="Schlagwort" ref="-">
+		<span xml:lang="de">Schlagwort</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Schleifer Dialekt" ref="-">
 		<span xml:lang="de">Schleifer Dialekt</span>
