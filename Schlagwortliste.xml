@@ -6,6 +6,12 @@
 		<span xml:lang="hsb">Bože wotkazanje</span>
 		<span xml:lang="en">Holy communion</span>
 	</li>
+	<li id="Aberglaube" ref="-">
+		<span xml:lang="de">Aberglaube</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Abgabe" ref="-">
 		<span xml:lang="de">Abgabe</span>
 		<span xml:lang="dsb">wótedank</span>
@@ -131,6 +137,12 @@
 		<span xml:lang="dsb">wuměńk</span>
 		<span xml:lang="hsb">wuměnk</span>
 		<span xml:lang="en">Provision for retired farmers</span>
+	</li>
+	<li id="alternative Medizin" ref="-">
+		<span xml:lang="de">alternative Medizin</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Altes Testament" ref="-">
 		<span xml:lang="de">Altes Testament</span>
@@ -1662,6 +1674,12 @@
 		<span xml:lang="hsb">wjesny swjedźeń</span>
 		<span xml:lang="en">Village fair</span>
 	</li>
+	<li id="Dorfleben" ref="-">
+		<span xml:lang="de">Dorfleben</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Dozent" ref="-">
 		<span xml:lang="de">Dozent</span>
 		<span xml:lang="dsb"/>
@@ -1715,6 +1733,12 @@
 		<span xml:lang="dsb">śišćaŕska grafika</span>
 		<span xml:lang="hsb">ćišćerska grafika</span>
 		<span xml:lang="en">Printmaking</span>
+	</li>
+	<li id="Dudelsack" ref="-">
+		<span xml:lang="de">Dudelsack</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">bagpipe</span>
 	</li>
 	<li id="DVD" ref="http://d-nb.info/gnd/4501545-4">
 		<span xml:lang="de">DVD (Digital Versatile Disc)</span>
@@ -1907,6 +1931,12 @@
 		<span xml:lang="dsb"/>
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
+	</li>
+	<li id="Erzähltechnik" ref="-">
+		<span xml:lang="de">Erzähltechnik</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Erzählung" ref="-">
 		<span xml:lang="de">Erzählung</span>
@@ -2196,6 +2226,12 @@
 		<span xml:lang="hsb">woheń</span>
 		<span xml:lang="en">Fire</span>
 	</li>
+	<li id="Fidel (Instrument)" ref="-">
+		<span xml:lang="de">Fidel (Instrument)</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">fiddle</span>
+	</li>
 	<li id="Film" ref="-">
 		<span xml:lang="de">Film</span>
 		<span xml:lang="dsb">film</span>
@@ -2238,6 +2274,12 @@
 		<span xml:lang="hsb">rybarka</span>
 		<span xml:lang="en">Fisherwoman</span>
 	</li>
+	<li id="Flachs" ref="-">
+		<span xml:lang="de">Flachs</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Flecken" ref="-">
 		<span xml:lang="de">Flecken</span>
 		<span xml:lang="dsb">wjas</span>
@@ -2261,6 +2303,12 @@
 		<span xml:lang="dsb">běžece wódy</span>
 		<span xml:lang="hsb">běžace wodźizny</span>
 		<span xml:lang="en">Watercourse</span>
+	</li>
+	<li id="Flöte" ref="-">
+		<span xml:lang="de">Flöte</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">flute</span>
 	</li>
 	<li id="Flucht" ref="http://d-nb.info/gnd/4017598-4">
 		<span xml:lang="de">Flucht</span>
@@ -2550,6 +2598,12 @@
 		<span xml:lang="hsb">galerija</span>
 		<span xml:lang="en">Gallery</span>
 	</li>
+	<li id="Garn" ref="-">
+		<span xml:lang="de">Garn</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Garten" ref="http://d-nb.info/gnd/4019286-6">
 		<span xml:lang="de">Garten</span>
 		<span xml:lang="dsb">zagroda</span>
@@ -2675,6 +2729,12 @@
 		<span xml:lang="dsb">wobgroźenje</span>
 		<span xml:lang="hsb">hajnišćo</span>
 		<span xml:lang="en">Enclosure</span>
+	</li>
+	<li id="Geige" ref="-">
+		<span xml:lang="de">Geige</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">violin</span>
 	</li>
 	<li id="Geigenbauer" ref="http://d-nb.info/gnd/4156341-4">
 		<span xml:lang="de">Geigenbauer</span>
@@ -2999,6 +3059,12 @@
 		<span xml:lang="dsb"/>
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
+	</li>
+	<li id="Gesundheit" ref="-">
+		<span xml:lang="de">Gesundheit</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Gewässer" ref="http://d-nb.info/gnd/4020820-5">
 		<span xml:lang="de">Gewässer</span>
@@ -3402,6 +3468,12 @@
 		<span xml:lang="hsb">podomk</span>
 		<span xml:lang="en">Furnishings</span>
 	</li>
+	<li id="Hebamme" ref="-">
+		<span xml:lang="de">Hebamme</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Heide" ref="-">
 		<span xml:lang="de">Heide</span>
 		<span xml:lang="dsb">wrjosate strony</span>
@@ -3414,11 +3486,23 @@
 		<span xml:lang="hsb">hola</span>
 		<span xml:lang="en">Moorland</span>
 	</li>
+	<li id="Heidentum" ref="-">
+		<span xml:lang="de">Heidentum</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Heiligenbild" ref="http://d-nb.info/gnd/4159383-2">
 		<span xml:lang="de">Heiligenbild</span>
 		<span xml:lang="dsb">swěśatko</span>
 		<span xml:lang="hsb">swjećatko</span>
 		<span xml:lang="en">Holy picture</span>
+	</li>
+	<li id="Heilpraktiken" ref="-">
+		<span xml:lang="de">Heilpraktiken</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Heirat" ref="-">
 		<span xml:lang="de">Heirat</span>
@@ -3666,6 +3750,12 @@
 		<span xml:lang="hsb">humanistka</span>
 		<span xml:lang="en">female humanist</span>
 	</li>
+	<li id="Humor" ref="-">
+		<span xml:lang="de">Humor</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Hussitenkriege" ref="http://d-nb.info/gnd/4160828-8">
 		<span xml:lang="de">Hussitenkriege</span>
 		<span xml:lang="dsb">Husitske wójny</span>
@@ -3887,6 +3977,12 @@
 		<span xml:lang="dsb">kanal</span>
 		<span xml:lang="hsb">kanal</span>
 		<span xml:lang="en">Channel</span>
+	</li>
+	<li id="Kantorka" ref="-">
+		<span xml:lang="de">Kantorka</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Kanzel" ref="http://d-nb.info/gnd/4137684-5">
 		<span xml:lang="de">Kanzel</span>
@@ -4266,6 +4362,12 @@
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
 	</li>
+	<li id="kollektives Gedächtnis" ref="-">
+		<span xml:lang="de">kollektives Gedächtnis</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Kollektivierung" ref="-">
 		<span xml:lang="de">Kollektivierung der Landwirtschaft</span>
 		<span xml:lang="dsb">kolektiwizacija</span>
@@ -4512,6 +4614,12 @@
 		<span xml:lang="hsb">chorosć</span>
 		<span xml:lang="en">Illness</span>
 	</li>
+	<li id="Kräuterfrau" ref="-">
+		<span xml:lang="de">Kräuterfrau</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Kreditinstitut" ref="-">
 		<span xml:lang="de">Kreditinstitut</span>
 		<span xml:lang="dsb"/>
@@ -4535,6 +4643,12 @@
 		<span xml:lang="dsb">(wejsańska) kjarcma</span>
 		<span xml:lang="hsb">(wjesna) korčma</span>
 		<span xml:lang="en">Kretscham</span>
+	</li>
+	<li id="Kreuz" ref="-">
+		<span xml:lang="de">Kreuz</span>
+		<span xml:lang="dsb">kśica</span>
+		<span xml:lang="hsb">křiž</span>
+		<span xml:lang="en">cross</span>
 	</li>
 	<li id="Kreuzgang" ref="http://d-nb.info/gnd/4033079-5">
 		<span xml:lang="de">Kreuzgang</span>
@@ -5136,6 +5250,18 @@
 		<span xml:lang="hsb">spěw</span>
 		<span xml:lang="en">Song</span>
 	</li>
+	<li id="Liederbuch" ref="-">
+		<span xml:lang="de">Liederbuch</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
+	<li id="Liedgut" ref="-">
+		<span xml:lang="de">Liedgut</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Limes Sorabicus" ref="-">
 		<span xml:lang="de">Limes Sorabicus</span>
 		<span xml:lang="dsb">Limes sorabicus</span>
@@ -5304,6 +5430,18 @@
 		<span xml:lang="hsb">manuskript</span>
 		<span xml:lang="en">Manuscript</span>
 	</li>
+	<li id="Mädchen" ref="-">
+		<span xml:lang="de">Mädchen</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">girl</span>
+	</li>
+	<li id="Männerkleidung" ref="-">
+		<span xml:lang="de">Männerkleidung</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Märchen" ref="-">
 		<span xml:lang="de">Märchen</span>
 		<span xml:lang="dsb">bajka</span>
@@ -5459,6 +5597,12 @@
 		<span xml:lang="dsb">metalowe źěłaŕstwo</span>
 		<span xml:lang="hsb">metalowe přemysło</span>
 		<span xml:lang="en">Craft metal working sector</span>
+	</li>
+	<li id="Metapher" ref="-">
+		<span xml:lang="de">Metapher</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">metaphor</span>
 	</li>
 	<li id="Mikrotoponyme" ref="-">
 		<span xml:lang="de">Mikrotoponym</span>
@@ -5688,6 +5832,12 @@
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
 	</li>
+	<li id="Musikproduktion" ref="-">
+		<span xml:lang="de">Musikproduktion</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Musiktheater" ref="-">
 		<span xml:lang="de">Musiktheater</span>
 		<span xml:lang="dsb">muzikowe źiwadło</span>
@@ -5759,6 +5909,12 @@
 		<span xml:lang="dsb">Napoleońske wójny</span>
 		<span xml:lang="hsb">Napoleonske wójny</span>
 		<span xml:lang="en">Napoleonic Wars</span>
+	</li>
+	<li id="Narrativ" ref="-">
+		<span xml:lang="de">Narrativ</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Nation" ref="-">
 		<span xml:lang="de">Nation</span>
@@ -5855,6 +6011,12 @@
 		<span xml:lang="dsb">dolnoserbšćina</span>
 		<span xml:lang="hsb">delnjoserbšćina</span>
 		<span xml:lang="en">Lower Sorbian</span>
+	</li>
+	<li id="Nix" ref="-">
+		<span xml:lang="de">Nix</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Notenschrift" ref="http://d-nb.info/gnd/4135339-0">
 		<span xml:lang="de">Notenschrift</span>
@@ -6102,6 +6264,12 @@
 		<span xml:lang="hsb">park</span>
 		<span xml:lang="en">Park</span>
 	</li>
+	<li id="Parömiologie" ref="-">
+		<span xml:lang="de">Parömiologie</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Partei" ref="http://d-nb.info/gnd/4044737-6">
 		<span xml:lang="de">Partei</span>
 		<span xml:lang="dsb">strona</span>
@@ -6179,6 +6347,12 @@
 		<span xml:lang="dsb">słup</span>
 		<span xml:lang="hsb">stołp</span>
 		<span xml:lang="en">Pier</span>
+	</li>
+	<li id="Pferd" ref="-">
+		<span xml:lang="de">Pferd</span>
+		<span xml:lang="dsb">kóń</span>
+		<span xml:lang="hsb">kóń</span>
+		<span xml:lang="en">horse</span>
 	</li>
 	<li id="Pferdewagen" ref="http://d-nb.info/gnd/7553438-1">
 		<span xml:lang="de">Pferdewagen</span>
@@ -6648,6 +6822,12 @@
 		<span xml:lang="hsb">pućowanje</span>
 		<span xml:lang="en">travel</span>
 	</li>
+	<li id="Reiter" ref="-">
+		<span xml:lang="de">Reiter</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Reiterspiele" ref="-">
 		<span xml:lang="de">Reiterspiel</span>
 		<span xml:lang="dsb">rejtowaŕske graśe</span>
@@ -6755,6 +6935,12 @@
 		<span xml:lang="dsb">kněžkojski dwór</span>
 		<span xml:lang="hsb">ryćerkubło</span>
 		<span xml:lang="en">Manor</span>
+	</li>
+	<li id="Ritual" ref="-">
+		<span xml:lang="de">Ritual</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Roboten" ref="-">
 		<span xml:lang="de">Robot</span>
@@ -6923,6 +7109,12 @@
 		<span xml:lang="dsb">zukowa plata</span>
 		<span xml:lang="hsb">tačel</span>
 		<span xml:lang="en">Gramophone record</span>
+	</li>
+	<li id="Schalmei" ref="-">
+		<span xml:lang="de">Schalmei</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Schanze" ref="-">
 		<span xml:lang="de">Schanze</span>
@@ -7559,6 +7751,12 @@
 		<span xml:lang="dsb">grajny film</span>
 		<span xml:lang="hsb">hrajny film</span>
 		<span xml:lang="en">Film game</span>
+	</li>
+	<li id="Spinnrad" ref="-">
+		<span xml:lang="de">Spinnrad</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Spinnstube" ref="http://d-nb.info/gnd/4271535-0">
 		<span xml:lang="de">Spinnstube</span>
@@ -8796,6 +8994,12 @@
 		<span xml:lang="hsb">ludowa wěra</span>
 		<span xml:lang="en">popular piety</span>
 	</li>
+	<li id="Volksglaube" ref="-">
+		<span xml:lang="de">Volksglaube</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Volkskultur" ref="-">
 		<span xml:lang="de">Volkskultur</span>
 		<span xml:lang="dsb"/>
@@ -8868,11 +9072,23 @@
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
 	</li>
+	<li id="Volkspoesie" ref="-">
+		<span xml:lang="de">Volkspoesie</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Volksschule" ref="-">
 		<span xml:lang="de">Volksschule</span>
 		<span xml:lang="dsb">ludowa šula</span>
 		<span xml:lang="hsb">ludowa šula</span>
 		<span xml:lang="en">Folk school</span>
+	</li>
+	<li id="Volkssprache" ref="-">
+		<span xml:lang="de">Volkssprache</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Volkstanz" ref="-">
 		<span xml:lang="de">Volkstanz</span>
@@ -9036,6 +9252,12 @@
 		<span xml:lang="hsb">wódne twarjenja</span>
 		<span xml:lang="en">Hydraulic Structures</span>
 	</li>
+	<li id="Wassergeist" ref="-">
+		<span xml:lang="de">Wassergeist</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Wasserkraftwerk" ref="http://d-nb.info/gnd/4064745-6">
 		<span xml:lang="de">Wasserkraftwerk</span>
 		<span xml:lang="dsb">wódowa milinaŕnja</span>
@@ -9046,7 +9268,7 @@
 		<span xml:lang="de">Wassermann</span>
 		<span xml:lang="dsb">nykus</span>
 		<span xml:lang="hsb">wódny muž</span>
-		<span xml:lang="en">Watter man</span>
+		<span xml:lang="en">Water man</span>
 	</li>
 	<li id="Wassermühle" ref="http://d-nb.info/gnd/4064760-2">
 		<span xml:lang="de">Wassermühle</span>
@@ -9408,6 +9630,12 @@
 		<span xml:lang="hsb">Witaj-projekt</span>
 		<span xml:lang="en">Witaj Model-Project</span>
 	</li>
+	<li id="Witz" ref="-">
+		<span xml:lang="de">Witz</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en">joke</span>
+	</li>
 	<li id="Wochenmarkt" ref="http://d-nb.info/gnd/4066702-9">
 		<span xml:lang="de">Wochenmarkt</span>
 		<span xml:lang="dsb">tyźeński mark</span>
@@ -9557,6 +9785,12 @@
 		<span xml:lang="dsb">cygel</span>
 		<span xml:lang="hsb">cyhel</span>
 		<span xml:lang="en">Bricks</span>
+	</li>
+	<li id="Ziehmann" ref="-">
+		<span xml:lang="de">Ziehmann</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
 	</li>
 	<li id="Zierbesatz" ref="-">
 		<span xml:lang="de">Zierbesatz</span>
