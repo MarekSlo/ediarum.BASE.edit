@@ -876,6 +876,12 @@
 		<span xml:lang="hsb">pčołarstwo</span>
 		<span xml:lang="en">apiary</span>
 	</li>
+	<li id="Imkerei" ref="http://d-nb.info/gnd/4026592-4">
+		<span xml:lang="de">Imkerei</span>
+		<span xml:lang="dsb">pcołkaŕstwo</span>
+		<span xml:lang="hsb">pčołarstwo</span>
+		<span xml:lang="en">apiary</span>
+	</li>
 	<li id="Bierhof" ref="-">
 		<span xml:lang="de">Bierhof</span>
 		<span xml:lang="dsb">piwowy dwór</span>
@@ -5790,6 +5796,18 @@
 		<span xml:lang="hsb">hudźba, činohra a rejowanje</span>
 		<span xml:lang="en">Music, drama and dance</span>
 	</li>
+	<li id="Musikant" ref="http://d-nb.info/gnd/4136771-6">
+		<span xml:lang="de">Musikant</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
+	<li id="Musikantin" ref="-">
+		<span xml:lang="de">Musikantin</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Musiker" ref="http://d-nb.info/gnd/4040841-3">
 		<span xml:lang="de">Musiker</span>
 		<span xml:lang="dsb">muzikaŕ</span>
@@ -9096,6 +9114,12 @@
 		<span xml:lang="hsb">ludowa reja</span>
 		<span xml:lang="en">Folk Dance</span>
 	</li>
+	<li id="Volkstreffen" ref="-">
+		<span xml:lang="de">Volkstreffen</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Vorchristlicher Totenkult" ref="-">
 		<span xml:lang="de">Vorchristlicher Totenkult</span>
 		<span xml:lang="dsb">pśekśesćijańske cesćenje wumarłych</span>
@@ -9746,6 +9770,12 @@
 	</li>
 	<li id="Zeidlerei" ref="-">
 		<span xml:lang="de">Zeidlerei</span>
+		<span xml:lang="dsb"/>
+		<span xml:lang="hsb"/>
+		<span xml:lang="en"/>
+	</li>
+	<li id="Zeidlerei" ref="-">
+		<span xml:lang="de">Waldbienenzucht</span>
 		<span xml:lang="dsb"/>
 		<span xml:lang="hsb"/>
 		<span xml:lang="en"/>
