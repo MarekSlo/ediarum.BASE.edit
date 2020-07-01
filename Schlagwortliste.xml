@@ -9534,6 +9534,12 @@
 		<span xml:lang="hsb">Serbski homiletiski seminar</span>
 		<span xml:lang="en">Wendish Homiletic Seminary</span>
 	</li>
+	<li id="Wendisches homiletisches Seminar" ref="-">
+		<span xml:lang="de">Wendisches Predigerseminar</span>
+		<span xml:lang="dsb"></span>
+		<span xml:lang="hsb"></span>
+		<span xml:lang="en"></span>
+	</li>
 	<li id="Wendisches Museum Bautzen" ref="-">
 		<span xml:lang="de">Wendisches Museum in Bautzen</span>
 		<span xml:lang="dsb">Serbski muzej Budyšyn</span>
@@ -9545,12 +9551,6 @@
 		<span xml:lang="dsb">Serbski muzej Chóśebuz</span>
 		<span xml:lang="hsb">Serbski muzej Choćebuz</span>
 		<span xml:lang="en">Wendish Museum in Cottbus</span>
-	</li>
-	<li id="Wendisches homiletisches Seminar" ref="-">
-		<span xml:lang="de">Wendisches Predigerseminar</span>
-		<span xml:lang="dsb"></span>
-		<span xml:lang="hsb"></span>
-		<span xml:lang="en"></span>
 	</li>
 	<li id="Wendisches Seminar" ref="-">
 		<span xml:lang="de">Wendisches Seminar</span>
