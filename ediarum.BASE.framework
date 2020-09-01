@@ -9324,6 +9324,22 @@ or ancestor-or-self::p[parent::physDesc]</String>
 											<actionMode-array>
 												<actionMode>
 													<field name="xpathCondition">
+														<String>oxy:allows-child-element("ref")</String>
+													</field>
+													<field name="argValues">
+														<serializableOrderedMap>
+															<entry>
+																<String>fragment</String>
+																<String>&lt;ref xmlns="http://www.tei-c.org/ns/1.0" target="${ask('URL eingeben', url, '')}">&lt;/ref></String>
+															</entry>
+														</serializableOrderedMap>
+													</field>
+													<field name="operationID">
+														<String>ro.sync.ecss.extensions.commons.operations.SurroundWithFragmentOperation</String>
+													</field>
+												</actionMode>
+												<actionMode>
+													<field name="xpathCondition">
 														<String>ancestor-or-self::note[parent::seg] 
 or ancestor-or-self::note[parent::correspDesc] 
 or ancestor-or-self::p[parent::abstract]
